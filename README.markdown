@@ -48,7 +48,8 @@ therefore creates:
 And that last option? It just adds a validation requiring the `:end` to be set
 if the `:start` is.
 
-We also have your validations taken care of.
+We have your other validations taken care of, too. We're just more comfortable
+with things when they're chronological.
 
 
 Rails 2.1 Is Extra Sweet
